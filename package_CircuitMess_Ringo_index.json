@@ -10,7 +10,7 @@
         {
           "category": "CM",
           "name": "Ringo",
-          "url": "https://github.com/CircuitMess/CircuitMess-Ringo-Arduino-packages/blob/master/Ringo-1.0.6.zip?raw=true",
+          "url": "https://github.com/CircuitMess/CircuitMess-Ringo-Arduino-packages/raw/master/Ringo-1.0.6.zip",
           "checksum": "SHA-256:8C106A711D7B492B563E1AEBB128AFC70C4968FA88C0B9955B41C90B90EC6B3F",
           "help": {
             "online": ""
@@ -45,7 +45,7 @@
         {
           "category": "CM",
           "name": "Ringo",
-          "url": "https://github.com/CircuitMess/CircuitMess-Ringo-Arduino-packages/blob/master/Ringo-1.0.5.zip?raw=true",
+          "url": "https://github.com/CircuitMess/CircuitMess-Ringo-Arduino-packages/raw/master/Ringo-1.0.5.zip",
           "checksum": "SHA-256:88FA4CE0ECDE7DBA177ACB4A852ED2587541A12119969F4294A5CC0645103349",
           "help": {
             "online": ""
@@ -80,7 +80,7 @@
         {
           "category": "CM",
           "name": "Ringo",
-          "url": "https://github.com/CircuitMess/CircuitMess-Ringo-Arduino-packages/blob/master/Ringo-1.0.4.zip?raw=true",
+          "url": "https://github.com/CircuitMess/CircuitMess-Ringo-Arduino-packages/raw/master/Ringo-1.0.4.zip",
           "checksum": "SHA-256:8f548e214946655adbf9b69f50d45e6bbdcd25cdcb9c2b979a3e4c4af7b4bbbf",
           "help": {
             "online": ""
@@ -115,7 +115,7 @@
         {
           "category": "CM",
           "name": "Ringo",
-          "url": "https://github.com/CircuitMess/CircuitMess-Ringo-Arduino-packages/blob/master/Ringo-1.0.3.zip?raw=true",
+          "url": "https://github.com/CircuitMess/CircuitMess-Ringo-Arduino-packages/raw/master/Ringo-1.0.3.zip",
           "checksum": "SHA-256:6ac71acd2ae86c03dbfb4cb6fefead7b2f447bd9cbd64530d5988b64f599f647",
           "help": {
             "online": ""
@@ -150,7 +150,7 @@
         {
           "category": "CM",
           "name": "Ringo",
-          "url": "https://github.com/CircuitMess/CircuitMess-Ringo-Arduino-packages/blob/master/Ringo-1.0.2.zip?raw=true",
+          "url": "https://github.com/CircuitMess/CircuitMess-Ringo-Arduino-packages/raw/master/Ringo-1.0.2.zip",
           "checksum": "SHA-256:5b6b3f719fb5a44a4ef8504cb85b9939453699945196a9f672782bcb259139f9",
           "help": {
             "online": ""
@@ -185,7 +185,7 @@
         {
           "category": "CM",
           "name": "Ringo",
-          "url": "https://github.com/CircuitMess/CircuitMess-Ringo-Arduino-packages/blob/master/Ringo-1.0.1.zip?raw=true",
+          "url": "https://github.com/CircuitMess/CircuitMess-Ringo-Arduino-packages/raw/master/Ringo-1.0.1.zip",
           "checksum": "SHA-256:7b17eafffd0d8c82a81ef348ad3ddd38c365b4e608493af5ff0153fc45ac1564",
           "help": {
             "online": ""
